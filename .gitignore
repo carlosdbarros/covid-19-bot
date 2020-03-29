@@ -1,0 +1,8 @@
+teste.py
+*.png
+*.pyc
+*.json
+.python-version
+chromedriver
+__pycache/
+profile/
